@@ -1,0 +1,1 @@
+code to store data to AWS iot core to dynamodb 
